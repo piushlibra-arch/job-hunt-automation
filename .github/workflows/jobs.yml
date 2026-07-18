@@ -2,8 +2,9 @@ name: Daily Job Hunt
 
 on:
   schedule:
-    - cron: "30 2 * * *"   # 08:00 IST (02:30 UTC)
-  workflow_dispatch: {}
+    # Runs every day at 08:00 IST (02:30 UTC)
+    - cron: "30 2 * * *"
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -13,20 +14,31 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - uses: actions/setup-python@v5
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      - run: pip install -r requirements.txt
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
 
-      - run: python scripts/fetch_jobs.py
+      - name: Install dependencies
+        run: uv sync
+
+      - name: Run job fetcher
+        run: uv run python scripts/fetch_jobs.py
 
       - name: Commit updated tracker
         run: |
           git config user.name "job-bot"
           git config user.email "bot@users.noreply.github.com"
+
           git add JOBS.md
-          git commit -m "Update job matches" || echo "no changes"
+
+          git diff --cached --quiet && echo "No changes to commit" && exit 0
+
+          git commit -m "Update job matches"
           git push
