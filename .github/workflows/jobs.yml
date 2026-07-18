@@ -2,7 +2,6 @@ name: Daily Job Hunt
 
 on:
   schedule:
-    # Runs every day at 08:00 IST (02:30 UTC)
     - cron: "30 2 * * *"
   workflow_dispatch:
 
@@ -20,13 +19,15 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.11"
+          python-version: "3.11"   # or 3.12 to match your project
 
       - name: Install uv
         uses: astral-sh/setup-uv@v5
+        with:
+          enable-cache: true
 
       - name: Install dependencies
-        run: uv sync
+        run: uv sync --locked
 
       - name: Run job fetcher
         run: uv run python scripts/fetch_jobs.py
