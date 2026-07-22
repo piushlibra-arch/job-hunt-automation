@@ -1,4 +1,4 @@
-# Job matches (updated 2026-07-21)
+# Job matches (updated 2026-07-22)
 
 - [score 6] [Lemon.io: Senior React Native Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-react-native-developer)
 - [score 5] [Win Home Inspection: DevOps Engineer](https://weworkremotely.com/remote-jobs/win-home-inspection-devops-engineer)
@@ -9,6 +9,5 @@
 - [score 4] [Mindrift: Freelance Full-Stack Web App Developer](https://weworkremotely.com/remote-jobs/mindrift-freelance-full-stack-web-app-developer)
 - [score 3] [Unqork: Intern-Web Application Penetration Tester](https://weworkremotely.com/remote-jobs/unqork-intern-web-application-penetration-tester)
 - [score 3] [Khibraty: Lead Full-stack Developer (Full-Time Remote Contractor)](https://weworkremotely.com/remote-jobs/khibraty-lead-full-stack-developer-full-time-remote-contractor)
-- [score 3] [Hyperdev: Intermediate Full Stack Developer](https://weworkremotely.com/remote-jobs/hyperdev-intermediate-full-stack-developer)
 - [score 3] [Coin Market Cap: Technical AI Product Manager](https://weworkremotely.com/remote-jobs/coin-market-cap-technical-ai-product-manager)
 - [score 3] [Akamai: Security Architect II](https://weworkremotely.com/remote-jobs/akamai-security-architect-ii)
