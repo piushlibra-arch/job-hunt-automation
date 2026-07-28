@@ -1,4 +1,4 @@
-# Job matches (updated 2026-07-27)
+# Job matches (updated 2026-07-28)
 
 - [score 5] [Win Home Inspection: DevOps Engineer](https://weworkremotely.com/remote-jobs/win-home-inspection-devops-engineer)
 - [score 5] [Sowelo Consulting: Full Stack Developer](https://weworkremotely.com/remote-jobs/sowelo-consulting-full-stack-developer)
