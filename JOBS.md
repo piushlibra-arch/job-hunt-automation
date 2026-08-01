@@ -1,11 +1,10 @@
-# Job matches (updated 2026-07-31)
+# Job matches (updated 2026-08-01)
 
 - [score 7] [Lemon.io: Senior React Full-stack Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-5)
+- [score 6] [Cloudflare: Principal Partner Solutions Engineer, SAARC (Based in Bangalore)](https://weworkremotely.com/remote-jobs/cloudflare-principal-partner-solutions-engineer-saarc-based-in-bangalore)
 - [score 5] [Proxify AB: Senior Fullstack Developer (Python)](https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-python-3)
-- [score 4] [Tether: AI Research Engineer](https://weworkremotely.com/remote-jobs/tether-ai-research-engineer)
 - [score 4] [Proxify AB: Senior Backend Developer (Python)](https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-8)
 - [score 4] [A.Team: Senior Independent AI Engineer / Architect](https://weworkremotely.com/remote-jobs/a-team-senior-independent-ai-engineer-architect)
 - [score 3] [Vidalytics: AI Automation Engineer, In-House MarTech Video SaaS](https://weworkremotely.com/remote-jobs/vidalytics-ai-automation-engineer-in-house-martech-video-saas)
-- [score 3] [Reveleer: Full Stack AI Engineer](https://weworkremotely.com/remote-jobs/reveleer-full-stack-ai-engineer)
 - [score 3] [MapTiler:  ️ Location Services Engineer | Maps Platform (Remote in Europe)](https://weworkremotely.com/remote-jobs/maptiler-location-services-engineer-maps-platform-remote-in-europe)
 - [score 3] [Cortes 23: Senior QA Engineer](https://weworkremotely.com/remote-jobs/cortes-23-senior-qa-engineer-2)
