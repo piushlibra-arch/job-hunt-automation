@@ -1,4 +1,4 @@
-# Job matches (updated 2026-08-02)
+# Job matches (updated 2026-08-03)
 
 - [score 7] [Lemon.io: Senior React Full-stack Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-5)
 - [score 6] [Cloudflare: Principal Partner Solutions Engineer, SAARC (Based in Bangalore)](https://weworkremotely.com/remote-jobs/cloudflare-principal-partner-solutions-engineer-saarc-based-in-bangalore)
