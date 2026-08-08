@@ -1,6 +1,5 @@
-# Job matches (updated 2026-08-07)
+# Job matches (updated 2026-08-08)
 
-- [score 7] [Lemon.io: Senior React Full-stack Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-5)
 - [score 6] [Cloudflare: Principal Partner Solutions Engineer, SAARC (Based in Bangalore)](https://weworkremotely.com/remote-jobs/cloudflare-principal-partner-solutions-engineer-saarc-based-in-bangalore)
 - [score 5] [Proxify AB: Senior Fullstack Developer (Python)](https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-python-3)
 - [score 5] [Gusto, Inc.: Enterprise Application AI Architect](https://weworkremotely.com/remote-jobs/gusto-inc-enterprise-application-ai-architect)
