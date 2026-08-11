@@ -1,4 +1,4 @@
-# Job matches (updated 2026-08-10)
+# Job matches (updated 2026-08-11)
 
 - [score 6] [Cloudflare: Principal Partner Solutions Engineer, SAARC (Based in Bangalore)](https://weworkremotely.com/remote-jobs/cloudflare-principal-partner-solutions-engineer-saarc-based-in-bangalore)
 - [score 5] [Proxify AB: Senior Fullstack Developer (Python)](https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-python-3)
@@ -6,6 +6,5 @@
 - [score 4] [Stripe: Backend Engineer, Core Technology](https://weworkremotely.com/remote-jobs/stripe-backend-engineer-core-technology)
 - [score 4] [Proxify AB: Senior Backend Developer (Python)](https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-8)
 - [score 3] [MapTiler:  ️ Location Services Engineer | Maps Platform (Remote in Europe)](https://weworkremotely.com/remote-jobs/maptiler-location-services-engineer-maps-platform-remote-in-europe)
-- [score 3] [Cortes 23: Senior QA Engineer](https://weworkremotely.com/remote-jobs/cortes-23-senior-qa-engineer-2)
 - [score 3] [Coinbase: Analytics Engineer, GFCO Analytics](https://weworkremotely.com/remote-jobs/coinbase-analytics-engineer-gfco-analytics)
 - [score 3] [Airtable: Manager, Sales Strategy & Planning](https://weworkremotely.com/remote-jobs/airtable-manager-sales-strategy-planning)
