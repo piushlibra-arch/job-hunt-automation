@@ -1,7 +1,6 @@
-# Job matches (updated 2026-08-16)
+# Job matches (updated 2026-08-17)
 
 - [score 6] [Cloudflare: Principal Partner Solutions Engineer, SAARC (Based in Bangalore)](https://weworkremotely.com/remote-jobs/cloudflare-principal-partner-solutions-engineer-saarc-based-in-bangalore)
-- [score 5] [Proxify AB: Senior Fullstack Developer (Python)](https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-python-3)
 - [score 5] [Gusto, Inc.: Staff Software Engineer,  AI Developer Tools](https://weworkremotely.com/remote-jobs/gusto-inc-staff-software-engineer-ai-developer-tools)
 - [score 5] [Gusto, Inc.: Enterprise Application AI Architect](https://weworkremotely.com/remote-jobs/gusto-inc-enterprise-application-ai-architect)
 - [score 4] [Stripe: Backend Engineer, Core Technology](https://weworkremotely.com/remote-jobs/stripe-backend-engineer-core-technology)
