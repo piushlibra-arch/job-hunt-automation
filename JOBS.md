@@ -1,5 +1,6 @@
-# Job matches (updated 2026-08-20)
+# Job matches (updated 2026-08-21)
 
+- [score 8] [Twilio: Machine Learning Engineer](https://weworkremotely.com/remote-jobs/twilio-machine-learning-engineer)
 - [score 6] [Cloudflare: Principal Partner Solutions Engineer, SAARC (Based in Bangalore)](https://weworkremotely.com/remote-jobs/cloudflare-principal-partner-solutions-engineer-saarc-based-in-bangalore)
 - [score 5] [Gusto, Inc.: Staff Software Engineer,  AI Developer Tools](https://weworkremotely.com/remote-jobs/gusto-inc-staff-software-engineer-ai-developer-tools)
 - [score 5] [Gusto, Inc.: Enterprise Application AI Architect](https://weworkremotely.com/remote-jobs/gusto-inc-enterprise-application-ai-architect)
@@ -7,7 +8,7 @@
 - [score 4] [Coinbase: GFCO Program Manager](https://weworkremotely.com/remote-jobs/coinbase-gfco-program-manager)
 - [score 3] [Stripe: GTM Operations Process Architect](https://weworkremotely.com/remote-jobs/stripe-gtm-operations-process-architect)
 - [score 3] [Stripe: Fullstack Engineer, Privy](https://weworkremotely.com/remote-jobs/stripe-fullstack-engineer-privy)
-- [score 3] [MapTiler:  ️ Location Services Engineer | Maps Platform (Remote in Europe)](https://weworkremotely.com/remote-jobs/maptiler-location-services-engineer-maps-platform-remote-in-europe)
+- [score 3] [Coinbase: Head of Finance, Canada](https://weworkremotely.com/remote-jobs/coinbase-head-of-finance-canada)
 - [score 3] [Coinbase: Counsel, Commercial](https://weworkremotely.com/remote-jobs/coinbase-counsel-commercial)
 - [score 3] [Coinbase: Analytics Engineer, GFCO Analytics](https://weworkremotely.com/remote-jobs/coinbase-analytics-engineer-gfco-analytics)
 - [score 3] [Airtable: Senior Solutions Architect- West Coast](https://weworkremotely.com/remote-jobs/airtable-senior-solutions-architect-west-coast)
