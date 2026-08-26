@@ -1,11 +1,8 @@
-# Job matches (updated 2026-08-25)
+# Job matches (updated 2026-08-26)
 
 - [score 6] [Lemon.io: Senior AI Engineer](https://weworkremotely.com/remote-jobs/lemon-io-senior-ai-engineer-4)
 - [score 6] [Azumo: Data Engineer - Databricks / AWS (Gaming & LiveOps) - Latin America](https://weworkremotely.com/remote-jobs/azumo-data-engineer-databricks-aws-gaming-liveops-latin-america)
 - [score 5] [Faire: Senior Staff Data Engineer - Platform Data and Analytics](https://weworkremotely.com/remote-jobs/faire-senior-staff-data-engineer-platform-data-and-analytics)
-- [score 5] [Doximity: Data Engineering Manager](https://weworkremotely.com/remote-jobs/doximity-data-engineering-manager)
-- [score 5] [ClickHouse: AI Product Engineer - ClickStack](https://weworkremotely.com/remote-jobs/clickhouse-ai-product-engineer-clickstack-1)
-- [score 5] [ClickHouse: AI Product Engineer - ClickStack](https://weworkremotely.com/remote-jobs/clickhouse-ai-product-engineer-clickstack)
 - [score 5] [Azumo: Technical Leader - Latin America](https://weworkremotely.com/remote-jobs/azumo-technical-leader-latin-america)
 - [score 5] [Azumo: Data Engineer - Latin America](https://weworkremotely.com/remote-jobs/azumo-data-engineer-latin-america)
 - [score 4] [LMG Staffing Solutions: AI-Assisted Software Engineer, Web Applications](https://weworkremotely.com/remote-jobs/lmg-staffing-solutions-ai-assisted-software-engineer-web-applications)
