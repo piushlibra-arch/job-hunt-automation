@@ -1,7 +1,8 @@
-# Job matches (updated 2026-08-27)
+# Job matches (updated 2026-08-28)
 
 - [score 6] [Lemon.io: Senior AI Engineer](https://weworkremotely.com/remote-jobs/lemon-io-senior-ai-engineer-4)
 - [score 6] [Azumo: Data Engineer - Databricks / AWS (Gaming & LiveOps) - Latin America](https://weworkremotely.com/remote-jobs/azumo-data-engineer-databricks-aws-gaming-liveops-latin-america)
+- [score 5] [Toptal: Tech Lead - Manufacturing Data & AI Platforms - Global Pharmaceutical Company](https://weworkremotely.com/remote-jobs/toptal-tech-lead-manufacturing-data-ai-platforms-global-pharmaceutical-company)
 - [score 5] [Faire: Senior Staff Data Engineer - Platform Data and Analytics](https://weworkremotely.com/remote-jobs/faire-senior-staff-data-engineer-platform-data-and-analytics)
 - [score 5] [Azumo: Technical Leader - Latin America](https://weworkremotely.com/remote-jobs/azumo-technical-leader-latin-america)
 - [score 5] [Azumo: Data Engineer - Latin America](https://weworkremotely.com/remote-jobs/azumo-data-engineer-latin-america)
@@ -11,6 +12,5 @@
 - [score 3] [Yooli: FULL TIME: Software Engineer Position - React and Rest](https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1)
 - [score 3] [Toptal: Data Scientist for Top Cosmetic firm](https://weworkremotely.com/remote-jobs/toptal-data-scientist-for-top-cosmetic-firm)
 - [score 3] [Maven Clinic: Content & Creative Strategist](https://weworkremotely.com/remote-jobs/maven-clinic-content-creative-strategist)
-- [score 3] [Lithic: Senior Dispute Analyst](https://weworkremotely.com/remote-jobs/lithic-senior-dispute-analyst)
 - [score 3] [Lattice: Engineering Manager, AI](https://weworkremotely.com/remote-jobs/lattice-engineering-manager-ai-1)
 - [score 3] [Lattice: Engineering Manager, AI](https://weworkremotely.com/remote-jobs/lattice-engineering-manager-ai)
