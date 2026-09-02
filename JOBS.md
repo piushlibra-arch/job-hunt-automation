@@ -1,4 +1,4 @@
-# Job matches (updated 2026-09-01)
+# Job matches (updated 2026-09-02)
 
 - [score 6] [Lemon.io: Senior AI Engineer](https://weworkremotely.com/remote-jobs/lemon-io-senior-ai-engineer-4)
 - [score 6] [Azumo: Data Engineer - Databricks / AWS (Gaming & LiveOps) - Latin America](https://weworkremotely.com/remote-jobs/azumo-data-engineer-databricks-aws-gaming-liveops-latin-america)
