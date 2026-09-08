@@ -1,4 +1,4 @@
-# Job matches (updated 2026-09-07)
+# Job matches (updated 2026-09-08)
 
 - [score 6] [Collaboration.Ai: Senior Software AI Engineer](https://weworkremotely.com/remote-jobs/collaboration-ai-senior-software-ai-engineer)
 - [score 5] [Toptal: Tech Lead - Manufacturing Data & AI Platforms - Global Pharmaceutical Company](https://weworkremotely.com/remote-jobs/toptal-tech-lead-manufacturing-data-ai-platforms-global-pharmaceutical-company)
@@ -10,8 +10,8 @@
 - [score 4] [Proxify AB: Senior Ruby on Rails Developer (AI-Augmented Engineering)](https://weworkremotely.com/remote-jobs/proxify-ab-senior-ruby-on-rails-developer-ai-augmented-engineering)
 - [score 4] [Proxify AB: Senior Backend Developer (Python)](https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-9)
 - [score 4] [Collaboration.Ai: Senior Software Engineer](https://weworkremotely.com/remote-jobs/collaboration-ai-senior-software-engineer)
+- [score 4] [Coderio: DevOps Senior](https://weworkremotely.com/remote-jobs/coderio-devops-senior)
 - [score 3] [ZoomInfo Technologies LLC: Principal Business Intelligence Analyst](https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-principal-business-intelligence-analyst)
 - [score 3] [Vercel: GRC Analyst](https://weworkremotely.com/remote-jobs/vercel-grc-analyst)
 - [score 3] [Toptal: Data Scientist for Top Cosmetic firm](https://weworkremotely.com/remote-jobs/toptal-data-scientist-for-top-cosmetic-firm)
-- [score 3] [Lattice: Engineering Manager, AI](https://weworkremotely.com/remote-jobs/lattice-engineering-manager-ai-1)
-- [score 3] [Lattice: Engineering Manager, AI](https://weworkremotely.com/remote-jobs/lattice-engineering-manager-ai)
+- [score 3] [Myneva: Senior DevOps Engineer (m/f/d)](https://weworkremotely.com/remote-jobs/myneva-senior-devops-engineer-m-f-d)
