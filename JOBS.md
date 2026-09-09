@@ -1,10 +1,11 @@
-# Job matches (updated 2026-09-08)
+# Job matches (updated 2026-09-09)
 
 - [score 6] [Collaboration.Ai: Senior Software AI Engineer](https://weworkremotely.com/remote-jobs/collaboration-ai-senior-software-ai-engineer)
 - [score 5] [Toptal: Tech Lead - Manufacturing Data & AI Platforms - Global Pharmaceutical Company](https://weworkremotely.com/remote-jobs/toptal-tech-lead-manufacturing-data-ai-platforms-global-pharmaceutical-company)
 - [score 5] [Toptal: Python Backend Development Talent with RAG and Agentic AI Experience](https://weworkremotely.com/remote-jobs/toptal-python-backend-development-talent-with-rag-and-agentic-ai-experience)
 - [score 5] [Toptal: AI/ML Engineer for an AI-Driven E-Commerce Platform](https://weworkremotely.com/remote-jobs/toptal-ai-ml-engineer-for-an-ai-driven-e-commerce-platform)
 - [score 5] [Charisma-tec: Junior DevOps Engineer (CI/CD & Developer Tooling) remote (m/f/d)](https://weworkremotely.com/remote-jobs/charisma-tec-junior-devops-engineer-ci-cd-developer-tooling-remote-m-f-d)
+- [score 4] [Zeta Global: Senior Product Designer, Agentic AI Applications](https://weworkremotely.com/remote-jobs/zeta-global-senior-product-designer-agentic-ai-applications)
 - [score 4] [Toptal: Senior Software Engineer for AI-Powered Banking Platform](https://weworkremotely.com/remote-jobs/toptal-senior-software-engineer-for-ai-powered-banking-platform)
 - [score 4] [Samsara: Staff Software Engineer](https://weworkremotely.com/remote-jobs/samsara-staff-software-engineer)
 - [score 4] [Proxify AB: Senior Ruby on Rails Developer (AI-Augmented Engineering)](https://weworkremotely.com/remote-jobs/proxify-ab-senior-ruby-on-rails-developer-ai-augmented-engineering)
