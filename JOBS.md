@@ -1,7 +1,6 @@
-# Job matches (updated 2026-09-10)
+# Job matches (updated 2026-09-11)
 
 - [score 6] [Collaboration.Ai: Senior Software AI Engineer](https://weworkremotely.com/remote-jobs/collaboration-ai-senior-software-ai-engineer)
-- [score 5] [Toptal: Tech Lead - Manufacturing Data & AI Platforms - Global Pharmaceutical Company](https://weworkremotely.com/remote-jobs/toptal-tech-lead-manufacturing-data-ai-platforms-global-pharmaceutical-company)
 - [score 5] [Toptal: Python Backend Development Talent with RAG and Agentic AI Experience](https://weworkremotely.com/remote-jobs/toptal-python-backend-development-talent-with-rag-and-agentic-ai-experience)
 - [score 5] [Toptal: AI/ML Engineer for an AI-Driven E-Commerce Platform](https://weworkremotely.com/remote-jobs/toptal-ai-ml-engineer-for-an-ai-driven-e-commerce-platform)
 - [score 5] [Charisma-tec: Junior DevOps Engineer (CI/CD & Developer Tooling) remote (m/f/d)](https://weworkremotely.com/remote-jobs/charisma-tec-junior-devops-engineer-ci-cd-developer-tooling-remote-m-f-d)
@@ -12,7 +11,7 @@
 - [score 4] [Proxify AB: Senior Backend Developer (Python)](https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-9)
 - [score 4] [Collaboration.Ai: Senior Software Engineer](https://weworkremotely.com/remote-jobs/collaboration-ai-senior-software-engineer)
 - [score 4] [Coderio: DevOps Senior](https://weworkremotely.com/remote-jobs/coderio-devops-senior)
+- [score 4] [Aker Systems: Principal Software Engineer - Product team](https://weworkremotely.com/remote-jobs/aker-systems-principal-software-engineer-product-team)
 - [score 3] [ZoomInfo Technologies LLC: Principal Business Intelligence Analyst](https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-principal-business-intelligence-analyst)
 - [score 3] [Vercel: GRC Analyst](https://weworkremotely.com/remote-jobs/vercel-grc-analyst)
-- [score 3] [Toptal: Data Scientist for Top Cosmetic firm](https://weworkremotely.com/remote-jobs/toptal-data-scientist-for-top-cosmetic-firm)
 - [score 3] [Myneva: Senior DevOps Engineer (m/f/d)](https://weworkremotely.com/remote-jobs/myneva-senior-devops-engineer-m-f-d)
