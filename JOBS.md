@@ -1,7 +1,8 @@
-# Job matches (updated 2026-09-14)
+# Job matches (updated 2026-09-15)
 
 - [score 6] [Collaboration.Ai: Senior Software AI Engineer](https://weworkremotely.com/remote-jobs/collaboration-ai-senior-software-ai-engineer)
 - [score 5] [Toptal: AI/ML Engineer for an AI-Driven E-Commerce Platform](https://weworkremotely.com/remote-jobs/toptal-ai-ml-engineer-for-an-ai-driven-e-commerce-platform)
+- [score 5] [Intellectsoft: Senior Shopify Full-stack Developer (IR-471)](https://weworkremotely.com/remote-jobs/intellectsoft-senior-shopify-full-stack-developer-ir-471)
 - [score 5] [Charisma-tec: Junior DevOps Engineer (CI/CD & Developer Tooling) remote (m/f/d)](https://weworkremotely.com/remote-jobs/charisma-tec-junior-devops-engineer-ci-cd-developer-tooling-remote-m-f-d)
 - [score 4] [Zeta Global: Senior Product Designer, Agentic AI Applications](https://weworkremotely.com/remote-jobs/zeta-global-senior-product-designer-agentic-ai-applications)
 - [score 4] [Trafilea: Product Manager AI Personalization](https://weworkremotely.com/remote-jobs/trafilea-product-manager-ai-personalization)
@@ -11,7 +12,7 @@
 - [score 4] [Collaboration.Ai: Senior Software Engineer](https://weworkremotely.com/remote-jobs/collaboration-ai-senior-software-engineer)
 - [score 4] [Coderio: DevOps Senior](https://weworkremotely.com/remote-jobs/coderio-devops-senior)
 - [score 4] [Aker Systems: Principal Software Engineer - Product team](https://weworkremotely.com/remote-jobs/aker-systems-principal-software-engineer-product-team)
-- [score 3] [Vercel: GRC Analyst](https://weworkremotely.com/remote-jobs/vercel-grc-analyst)
 - [score 3] [Myneva: Senior DevOps Engineer (m/f/d)](https://weworkremotely.com/remote-jobs/myneva-senior-devops-engineer-m-f-d)
+- [score 3] [Huzzle: Full-Stack Developer (Python, React, AI)](https://weworkremotely.com/remote-jobs/huzzle-full-stack-developer-python-react-ai-1)
 - [score 3] [Huzzle: Full-Stack Developer (Python, React, AI)](https://weworkremotely.com/remote-jobs/huzzle-full-stack-developer-python-react-ai)
 - [score 3] [Ci&t: [Job -26953] Senior Full Stack Developer (React/.Net)](https://weworkremotely.com/remote-jobs/ci-t-job-26953-senior-full-stack-developer-react-net)
