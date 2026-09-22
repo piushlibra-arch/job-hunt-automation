@@ -1,4 +1,4 @@
-# Job matches (updated 2026-09-21)
+# Job matches (updated 2026-09-22)
 
 - [score 7] [Lemon.io: Senior React Full-stack Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-6)
 - [score 7] [Legion: Chief Architect](https://weworkremotely.com/remote-jobs/legion-chief-architect)
@@ -11,5 +11,5 @@
 - [score 3] [Yooli: FULL TIME: Software Engineer Position - React and Rest](https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1)
 - [score 3] [Prove: Director, Channel & Partnerships](https://weworkremotely.com/remote-jobs/prove-director-channel-partnerships)
 - [score 3] [Princeton University: Senior PeopleSoft Developer/Analyst II](https://weworkremotely.com/remote-jobs/princeton-university-senior-peoplesoft-developer-analyst-ii)
+- [score 3] [Lemon.io: Senior Java & React Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-java-react-developer)
 - [score 3] [Expel: Managed SIEM Detection Engineer](https://weworkremotely.com/remote-jobs/expel-managed-siem-detection-engineer)
-- [score 3] [Airbnb: Senior Data Scientist, Guest & Host](https://weworkremotely.com/remote-jobs/airbnb-senior-data-scientist-guest-host)
