@@ -1,9 +1,10 @@
-# Job matches (updated 2026-09-22)
+# Job matches (updated 2026-09-23)
 
 - [score 7] [Lemon.io: Senior React Full-stack Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-6)
 - [score 7] [Legion: Chief Architect](https://weworkremotely.com/remote-jobs/legion-chief-architect)
 - [score 6] [OfferUp: Software Development Engineer II Full Stack - Business (Remote @ Colombia)](https://weworkremotely.com/remote-jobs/offerup-software-development-engineer-ii-full-stack-business-remote-colombia)
 - [score 6] [Lemon.io: Senior React Native Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-react-native-developer-1)
+- [score 6] [Lemon.io: Senior .NET Full-stack Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-net-full-stack-developer-1)
 - [score 5] [Track it Forward: Lead Developer — Rebuild, Modernize, & Scale (Social Good SaaS, Remote)](https://weworkremotely.com/remote-jobs/track-it-forward-lead-developer-rebuild-modernize-scale-social-good-saas-remote)
 - [score 5] [Toptal: Automation Engineer (UIPath) for innovative AI Project](https://weworkremotely.com/remote-jobs/toptal-automation-engineer-uipath-for-innovative-ai-project)
 - [score 5] [Legion: Director of Production Engineering](https://weworkremotely.com/remote-jobs/legion-director-of-production-engineering)
