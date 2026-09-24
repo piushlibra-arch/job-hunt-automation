@@ -1,4 +1,4 @@
-# Job matches (updated 2026-09-23)
+# Job matches (updated 2026-09-24)
 
 - [score 7] [Lemon.io: Senior React Full-stack Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-6)
 - [score 7] [Legion: Chief Architect](https://weworkremotely.com/remote-jobs/legion-chief-architect)
