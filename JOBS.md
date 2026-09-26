@@ -1,11 +1,10 @@
-# Job matches (updated 2026-09-25)
+# Job matches (updated 2026-09-26)
 
 - [score 7] [Lemon.io: Senior React Full-stack Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-6)
 - [score 7] [Legion: Chief Architect](https://weworkremotely.com/remote-jobs/legion-chief-architect)
 - [score 6] [Lemon.io: Senior React Native Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-react-native-developer-1)
 - [score 6] [Lemon.io: Senior .NET Full-stack Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-net-full-stack-developer-1)
 - [score 5] [Track it Forward: Lead Developer — Rebuild, Modernize, & Scale (Social Good SaaS, Remote)](https://weworkremotely.com/remote-jobs/track-it-forward-lead-developer-rebuild-modernize-scale-social-good-saas-remote)
-- [score 5] [Toptal: Automation Engineer (UIPath) for innovative AI Project](https://weworkremotely.com/remote-jobs/toptal-automation-engineer-uipath-for-innovative-ai-project)
 - [score 4] [Flexport: Senior Systems Engineer (Identity and Access)](https://weworkremotely.com/remote-jobs/flexport-senior-systems-engineer-identity-and-access)
 - [score 4] [A.Team: Senior Independent AI Engineer / Architect](https://weworkremotely.com/remote-jobs/a-team-senior-independent-ai-engineer-architect)
 - [score 3] [Yooli: FULL TIME: Software Engineer Position - React and Rest](https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1)
