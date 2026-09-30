@@ -1,6 +1,7 @@
-# Job matches (updated 2026-09-29)
+# Job matches (updated 2026-09-30)
 
 - [score 7] [Legion: Chief Architect](https://weworkremotely.com/remote-jobs/legion-chief-architect)
+- [score 6] [Toptal: Senior Data Engineer – AWS Data Lake & Pipeline Architecture](https://weworkremotely.com/remote-jobs/toptal-senior-data-engineer-aws-data-lake-pipeline-architecture)
 - [score 6] [Lemon.io: Senior React Native Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-react-native-developer-1)
 - [score 6] [Lemon.io: Senior .NET Full-stack Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-net-full-stack-developer-1)
 - [score 5] [Track it Forward: Lead Developer — Rebuild, Modernize, & Scale (Social Good SaaS, Remote)](https://weworkremotely.com/remote-jobs/track-it-forward-lead-developer-rebuild-modernize-scale-social-good-saas-remote)
@@ -13,4 +14,4 @@
 - [score 3] [Princeton University: Senior PeopleSoft Developer/Analyst II](https://weworkremotely.com/remote-jobs/princeton-university-senior-peoplesoft-developer-analyst-ii)
 - [score 3] [Pinterest: Data Scientist II, Infrastructure](https://weworkremotely.com/remote-jobs/pinterest-data-scientist-ii-infrastructure)
 - [score 3] [Lemon.io: Senior Java & React Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-java-react-developer)
-- [score 3] [Expel: Managed SIEM Detection Engineer](https://weworkremotely.com/remote-jobs/expel-managed-siem-detection-engineer)
+- [score 3] [AccuLynx: Senior Software Engineer](https://weworkremotely.com/remote-jobs/acculynx-senior-software-engineer)
