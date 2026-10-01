@@ -1,10 +1,11 @@
-# Job matches (updated 2026-09-30)
+# Job matches (updated 2026-10-01)
 
 - [score 7] [Legion: Chief Architect](https://weworkremotely.com/remote-jobs/legion-chief-architect)
 - [score 6] [Toptal: Senior Data Engineer – AWS Data Lake & Pipeline Architecture](https://weworkremotely.com/remote-jobs/toptal-senior-data-engineer-aws-data-lake-pipeline-architecture)
 - [score 6] [Lemon.io: Senior React Native Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-react-native-developer-1)
 - [score 6] [Lemon.io: Senior .NET Full-stack Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-net-full-stack-developer-1)
 - [score 5] [Track it Forward: Lead Developer — Rebuild, Modernize, & Scale (Social Good SaaS, Remote)](https://weworkremotely.com/remote-jobs/track-it-forward-lead-developer-rebuild-modernize-scale-social-good-saas-remote)
+- [score 4] [Samsara: Staff Software Engineer](https://weworkremotely.com/remote-jobs/samsara-staff-software-engineer)
 - [score 4] [Proxify AB: Senior Backend Developer (Python)](https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-10)
 - [score 4] [Proxify AB: Senior Backend Developer (Node.js / Nest.js)](https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-node-js-nest-js-3)
 - [score 4] [A.Team: Senior Independent AI Engineer / Architect](https://weworkremotely.com/remote-jobs/a-team-senior-independent-ai-engineer-architect)
