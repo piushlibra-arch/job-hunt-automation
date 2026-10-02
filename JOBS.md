@@ -1,4 +1,4 @@
-# Job matches (updated 2026-10-01)
+# Job matches (updated 2026-10-02)
 
 - [score 7] [Legion: Chief Architect](https://weworkremotely.com/remote-jobs/legion-chief-architect)
 - [score 6] [Toptal: Senior Data Engineer – AWS Data Lake & Pipeline Architecture](https://weworkremotely.com/remote-jobs/toptal-senior-data-engineer-aws-data-lake-pipeline-architecture)
