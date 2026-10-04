@@ -1,4 +1,4 @@
-# Job matches (updated 2026-10-03)
+# Job matches (updated 2026-10-04)
 
 - [score 7] [Legion: Chief Architect](https://weworkremotely.com/remote-jobs/legion-chief-architect)
 - [score 6] [Toptal: Senior Data Engineer – AWS Data Lake & Pipeline Architecture](https://weworkremotely.com/remote-jobs/toptal-senior-data-engineer-aws-data-lake-pipeline-architecture)
@@ -9,10 +9,8 @@
 - [score 4] [Proxify AB: Senior Backend Developer (Python)](https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-10)
 - [score 4] [Proxify AB: Senior Backend Developer (Node.js / Nest.js)](https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-node-js-nest-js-3)
 - [score 4] [A.Team: Senior Independent AI Engineer / Architect](https://weworkremotely.com/remote-jobs/a-team-senior-independent-ai-engineer-architect)
-- [score 3] [Yooli: FULL TIME: Software Engineer Position - React and Rest](https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1)
 - [score 3] [Salesloft: Commercial Account Manager](https://weworkremotely.com/remote-jobs/salesloft-commercial-account-manager)
-- [score 3] [Prove: Director, Channel & Partnerships](https://weworkremotely.com/remote-jobs/prove-director-channel-partnerships)
-- [score 3] [Princeton University: Senior PeopleSoft Developer/Analyst II](https://weworkremotely.com/remote-jobs/princeton-university-senior-peoplesoft-developer-analyst-ii)
 - [score 3] [Pinterest: Data Scientist II, Infrastructure](https://weworkremotely.com/remote-jobs/pinterest-data-scientist-ii-infrastructure)
 - [score 3] [Lemon.io: Senior Java & React Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-java-react-developer)
+- [score 3] [Collibra: CPS Account Program Manager](https://weworkremotely.com/remote-jobs/collibra-cps-account-program-manager)
 - [score 3] [AccuLynx: Senior Software Engineer](https://weworkremotely.com/remote-jobs/acculynx-senior-software-engineer)
