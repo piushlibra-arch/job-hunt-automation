@@ -1,6 +1,5 @@
-# Job matches (updated 2026-10-06)
+# Job matches (updated 2026-10-07)
 
-- [score 7] [Legion: Chief Architect](https://weworkremotely.com/remote-jobs/legion-chief-architect)
 - [score 6] [Toptal: Senior Data Engineer – AWS Data Lake & Pipeline Architecture](https://weworkremotely.com/remote-jobs/toptal-senior-data-engineer-aws-data-lake-pipeline-architecture)
 - [score 6] [Lemon.io: Senior .NET Full-stack Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-net-full-stack-developer-1)
 - [score 5] [Glean: Application Security Engineer](https://weworkremotely.com/remote-jobs/glean-application-security-engineer)
