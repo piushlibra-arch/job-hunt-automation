@@ -1,4 +1,4 @@
-# Job matches (updated 2026-10-07)
+# Job matches (updated 2026-10-08)
 
 - [score 6] [Toptal: Senior Data Engineer – AWS Data Lake & Pipeline Architecture](https://weworkremotely.com/remote-jobs/toptal-senior-data-engineer-aws-data-lake-pipeline-architecture)
 - [score 6] [Lemon.io: Senior .NET Full-stack Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-net-full-stack-developer-1)
@@ -10,6 +10,5 @@
 - [score 3] [Salesloft: Commercial Account Manager](https://weworkremotely.com/remote-jobs/salesloft-commercial-account-manager)
 - [score 3] [STEUART NUTRITION: Software Developer AI Coding](https://weworkremotely.com/remote-jobs/steuart-nutrition-software-developer-ai-coding)
 - [score 3] [Pinterest: Data Scientist II, Infrastructure](https://weworkremotely.com/remote-jobs/pinterest-data-scientist-ii-infrastructure)
-- [score 3] [Lemon.io: Senior Java & React Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-java-react-developer)
 - [score 3] [Collibra: CPS Account Program Manager](https://weworkremotely.com/remote-jobs/collibra-cps-account-program-manager)
 - [score 3] [AccuLynx: Senior Software Engineer](https://weworkremotely.com/remote-jobs/acculynx-senior-software-engineer)
