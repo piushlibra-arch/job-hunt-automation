@@ -1,4 +1,4 @@
-# Job matches (updated 2026-10-09)
+# Job matches (updated 2026-10-10)
 
 - [score 6] [Toptal: Senior Data Engineer – AWS Data Lake & Pipeline Architecture](https://weworkremotely.com/remote-jobs/toptal-senior-data-engineer-aws-data-lake-pipeline-architecture)
 - [score 5] [Glean: Application Security Engineer](https://weworkremotely.com/remote-jobs/glean-application-security-engineer)
