@@ -1,4 +1,4 @@
-# Job matches (updated 2026-10-12)
+# Job matches (updated 2026-10-13)
 
 - [score 6] [Toptal: Senior Data Engineer – AWS Data Lake & Pipeline Architecture](https://weworkremotely.com/remote-jobs/toptal-senior-data-engineer-aws-data-lake-pipeline-architecture)
 - [score 5] [Glean: Application Security Engineer](https://weworkremotely.com/remote-jobs/glean-application-security-engineer)
@@ -8,8 +8,7 @@
 - [score 4] [Proxify AB: Senior Backend Developer (Python)](https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-10)
 - [score 4] [Proxify AB: Senior Backend Developer (Node.js / Nest.js)](https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-node-js-nest-js-3)
 - [score 4] [Hex Technologies: Cloud Security Engineer](https://weworkremotely.com/remote-jobs/hex-technologies-cloud-security-engineer)
+- [score 4] [Discord: Engineering Manager, Machine Learning (Safety)](https://weworkremotely.com/remote-jobs/discord-engineering-manager-machine-learning-safety)
 - [score 3] [STEUART NUTRITION: Software Developer AI Coding](https://weworkremotely.com/remote-jobs/steuart-nutrition-software-developer-ai-coding)
 - [score 3] [Postscript: Client Strategist](https://weworkremotely.com/remote-jobs/postscript-client-strategist)
-- [score 3] [Pinterest: Data Scientist II, Infrastructure](https://weworkremotely.com/remote-jobs/pinterest-data-scientist-ii-infrastructure)
-- [score 3] [Collibra: CPS Account Program Manager](https://weworkremotely.com/remote-jobs/collibra-cps-account-program-manager)
 - [score 3] [AccuLynx: Senior Software Engineer](https://weworkremotely.com/remote-jobs/acculynx-senior-software-engineer)
