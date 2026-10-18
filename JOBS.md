@@ -1,9 +1,10 @@
-# Job matches (updated 2026-10-17)
+# Job matches (updated 2026-10-18)
 
 - [score 6] [Salesloft: Principal Software Engineer, AI](https://weworkremotely.com/remote-jobs/salesloft-principal-software-engineer-ai)
 - [score 5] [Glean: Application Security Engineer](https://weworkremotely.com/remote-jobs/glean-application-security-engineer)
 - [score 5] [Dremio: Software Engineer - Developer Experience](https://weworkremotely.com/remote-jobs/dremio-software-engineer-developer-experience)
 - [score 4] [ZoomInfo Technologies LLC: Director, Applied AI](https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-director-applied-ai)
+- [score 4] [Humane World for Animals: Web Designer, eCRM](https://weworkremotely.com/remote-jobs/humane-world-for-animals-web-designer-ecrm-1)
 - [score 4] [Hex Technologies: Cloud Security Engineer](https://weworkremotely.com/remote-jobs/hex-technologies-cloud-security-engineer)
 - [score 4] [Doximity: Commercial Data Scientist](https://weworkremotely.com/remote-jobs/doximity-commercial-data-scientist)
 - [score 4] [Discord: Engineering Manager, Machine Learning (Safety)](https://weworkremotely.com/remote-jobs/discord-engineering-manager-machine-learning-safety)
