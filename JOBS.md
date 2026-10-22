@@ -1,4 +1,4 @@
-# Job matches (updated 2026-10-21)
+# Job matches (updated 2026-10-22)
 
 - [score 6] [Salesloft: Principal Software Engineer, AI](https://weworkremotely.com/remote-jobs/salesloft-principal-software-engineer-ai)
 - [score 5] [Glean: Application Security Engineer](https://weworkremotely.com/remote-jobs/glean-application-security-engineer)
