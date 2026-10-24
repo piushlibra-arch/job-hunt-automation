@@ -1,4 +1,4 @@
-# Job matches (updated 2026-10-23)
+# Job matches (updated 2026-10-24)
 
 - [score 6] [Salesloft: Principal Software Engineer, AI](https://weworkremotely.com/remote-jobs/salesloft-principal-software-engineer-ai)
 - [score 5] [Dremio: Software Engineer - Developer Experience](https://weworkremotely.com/remote-jobs/dremio-software-engineer-developer-experience)
@@ -9,7 +9,6 @@
 - [score 4] [Discord: Engineering Manager, Machine Learning (Safety)](https://weworkremotely.com/remote-jobs/discord-engineering-manager-machine-learning-safety)
 - [score 4] [A.Team: Senior Independent AI Engineer / Architect](https://weworkremotely.com/remote-jobs/a-team-senior-independent-ai-engineer-architect)
 - [score 3] [Yooli: FULL TIME: Software Engineer Position - React and Rest](https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1)
-- [score 3] [STEUART NUTRITION: Software Developer AI Coding](https://weworkremotely.com/remote-jobs/steuart-nutrition-software-developer-ai-coding)
 - [score 3] [Postscript: Client Strategist](https://weworkremotely.com/remote-jobs/postscript-client-strategist)
 - [score 3] [Lithic: Senior Software Engineer, Card Authorization](https://weworkremotely.com/remote-jobs/lithic-senior-software-engineer-card-authorization)
 - [score 3] [Hex Technologies: Legal Ops](https://weworkremotely.com/remote-jobs/hex-technologies-legal-ops)
