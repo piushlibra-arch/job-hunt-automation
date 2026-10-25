@@ -1,8 +1,9 @@
-# Job matches (updated 2026-10-24)
+# Job matches (updated 2026-10-25)
 
 - [score 6] [Salesloft: Principal Software Engineer, AI](https://weworkremotely.com/remote-jobs/salesloft-principal-software-engineer-ai)
 - [score 5] [Dremio: Software Engineer - Developer Experience](https://weworkremotely.com/remote-jobs/dremio-software-engineer-developer-experience)
 - [score 4] [ZoomInfo Technologies LLC: Director, Applied AI](https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-director-applied-ai)
+- [score 4] [Webflow: Senior Infrastructure Engineer](https://weworkremotely.com/remote-jobs/webflow-senior-infrastructure-engineer)
 - [score 4] [Stripe: Abuse Research Engineer](https://weworkremotely.com/remote-jobs/stripe-abuse-research-engineer)
 - [score 4] [Humane World for Animals: Web Designer, eCRM](https://weworkremotely.com/remote-jobs/humane-world-for-animals-web-designer-ecrm-1)
 - [score 4] [Doximity: Commercial Data Scientist](https://weworkremotely.com/remote-jobs/doximity-commercial-data-scientist)
