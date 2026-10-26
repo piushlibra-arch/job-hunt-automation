@@ -1,4 +1,4 @@
-# Job matches (updated 2026-10-25)
+# Job matches (updated 2026-10-26)
 
 - [score 6] [Salesloft: Principal Software Engineer, AI](https://weworkremotely.com/remote-jobs/salesloft-principal-software-engineer-ai)
 - [score 5] [Dremio: Software Engineer - Developer Experience](https://weworkremotely.com/remote-jobs/dremio-software-engineer-developer-experience)
