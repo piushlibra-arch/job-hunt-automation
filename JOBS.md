@@ -1,4 +1,4 @@
-# Job matches (updated 2026-10-31)
+# Job matches (updated 2026-11-01)
 
 - [score 11] [Jumio: Machine Learning Engineer - IV (Computer Vision)](https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer-iv-computer-vision)
 - [score 11] [Jumio: Machine Learning Engineer - IV (Biometrics)](https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer-iv-biometrics)
