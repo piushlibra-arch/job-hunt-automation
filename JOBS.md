@@ -1,4 +1,4 @@
-# Job matches (updated 2026-11-02)
+# Job matches (updated 2026-11-03)
 
 - [score 11] [Jumio: Machine Learning Engineer - IV (Computer Vision)](https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer-iv-computer-vision)
 - [score 11] [Jumio: Machine Learning Engineer - IV (Biometrics)](https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer-iv-biometrics)
@@ -12,9 +12,8 @@
 - [score 4] [Webflow: Senior Infrastructure Engineer](https://weworkremotely.com/remote-jobs/webflow-senior-infrastructure-engineer)
 - [score 4] [Vercel: Software Engineer - Data Platform](https://weworkremotely.com/remote-jobs/vercel-software-engineer-data-platform)
 - [score 4] [Typeform: Full Stack Developer](https://weworkremotely.com/remote-jobs/typeform-full-stack-developer)
-- [score 4] [Stripe: Abuse Research Engineer](https://weworkremotely.com/remote-jobs/stripe-abuse-research-engineer)
 - [score 4] [Databricks: Deployment Strategist](https://weworkremotely.com/remote-jobs/databricks-deployment-strategist)
 - [score 4] [A.Team: Senior Independent AI Engineer / Architect](https://weworkremotely.com/remote-jobs/a-team-senior-independent-ai-engineer-architect)
-- [score 3] [Yooli: FULL TIME: Software Engineer Position - React and Rest](https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1)
 - [score 3] [Vercel: Software Engineer, Backend](https://weworkremotely.com/remote-jobs/vercel-software-engineer-backend)
+- [score 3] [StockX: Category Manager - Apparel](https://weworkremotely.com/remote-jobs/stockx-category-manager-apparel)
 - [score 3] [Maven Clinic: Client Success Manager](https://weworkremotely.com/remote-jobs/maven-clinic-client-success-manager)
