@@ -1,10 +1,9 @@
-# Job matches (updated 2026-11-07)
+# Job matches (updated 2026-11-08)
 
 - [score 11] [Jumio: Machine Learning Engineer - IV (Computer Vision)](https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer-iv-computer-vision)
 - [score 7] [Lemon.io: Senior React Full-stack Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-7)
 - [score 6] [Toptal: Applied AI Engineers for telecommunications company](https://weworkremotely.com/remote-jobs/toptal-applied-ai-engineers-for-telecommunications-company)
 - [score 6] [Toptal: Apigee Engineer for Global Consumer Food Company](https://weworkremotely.com/remote-jobs/toptal-apigee-engineer-for-global-consumer-food-company)
-- [score 6] [Lemon.io: Senior .NET Full-stack Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-net-full-stack-developer-2)
 - [score 4] [Vercel: Software Engineer - Data Platform](https://weworkremotely.com/remote-jobs/vercel-software-engineer-data-platform)
 - [score 4] [Typeform: Full Stack Developer](https://weworkremotely.com/remote-jobs/typeform-full-stack-developer)
 - [score 4] [Samsara: Staff Software Engineer](https://weworkremotely.com/remote-jobs/samsara-staff-software-engineer)
