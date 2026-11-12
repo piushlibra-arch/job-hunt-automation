@@ -1,10 +1,10 @@
-# Job matches (updated 2026-11-11)
+# Job matches (updated 2026-11-12)
 
-- [score 6] [Toptal: Applied AI Engineers for telecommunications company](https://weworkremotely.com/remote-jobs/toptal-applied-ai-engineers-for-telecommunications-company)
-- [score 6] [Toptal: Apigee Engineer for Global Consumer Food Company](https://weworkremotely.com/remote-jobs/toptal-apigee-engineer-for-global-consumer-food-company)
 - [score 6] [Airbnb: Operations Engineer, BizTech](https://weworkremotely.com/remote-jobs/airbnb-operations-engineer-biztech)
 - [score 5] [Clover Health: Director, AI-Enabled Fraud Prevention & Investigations](https://weworkremotely.com/remote-jobs/clover-health-director-ai-enabled-fraud-prevention-investigations)
 - [score 4] [Samsara: Staff Software Engineer](https://weworkremotely.com/remote-jobs/samsara-staff-software-engineer)
+- [score 4] [Proxify AB: Senior Backend Developer (Python)](https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-11)
+- [score 4] [Proxify AB: Senior Backend Developer (Node.js / Nest.js)](https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-node-js-nest-js-4)
 - [score 4] [Lithic: Senior Software Engineer, Processing](https://weworkremotely.com/remote-jobs/lithic-senior-software-engineer-processing)
 - [score 4] [Databricks: Deployment Strategist](https://weworkremotely.com/remote-jobs/databricks-deployment-strategist)
 - [score 3] [StockX: Category Manager - Apparel](https://weworkremotely.com/remote-jobs/stockx-category-manager-apparel)
