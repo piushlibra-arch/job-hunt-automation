@@ -1,4 +1,4 @@
-# Job matches (updated 2026-11-12)
+# Job matches (updated 2026-11-13)
 
 - [score 6] [Airbnb: Operations Engineer, BizTech](https://weworkremotely.com/remote-jobs/airbnb-operations-engineer-biztech)
 - [score 5] [Clover Health: Director, AI-Enabled Fraud Prevention & Investigations](https://weworkremotely.com/remote-jobs/clover-health-director-ai-enabled-fraud-prevention-investigations)
@@ -6,7 +6,6 @@
 - [score 4] [Proxify AB: Senior Backend Developer (Python)](https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-11)
 - [score 4] [Proxify AB: Senior Backend Developer (Node.js / Nest.js)](https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-node-js-nest-js-4)
 - [score 4] [Lithic: Senior Software Engineer, Processing](https://weworkremotely.com/remote-jobs/lithic-senior-software-engineer-processing)
-- [score 4] [Databricks: Deployment Strategist](https://weworkremotely.com/remote-jobs/databricks-deployment-strategist)
 - [score 3] [StockX: Category Manager - Apparel](https://weworkremotely.com/remote-jobs/stockx-category-manager-apparel)
 - [score 3] [Mixpanel: Customer Value Architect III](https://weworkremotely.com/remote-jobs/mixpanel-customer-value-architect-iii-1)
 - [score 3] [Mixpanel: Customer Value Architect III](https://weworkremotely.com/remote-jobs/mixpanel-customer-value-architect-iii)
