@@ -1,4 +1,4 @@
-# Job matches (updated 2026-11-24)
+# Job matches (updated 2026-11-25)
 
 - [score 9] [Jumio: Principal Enterprise Architect](https://weworkremotely.com/remote-jobs/jumio-principal-enterprise-architect)
 - [score 7] [Vertican: Senior Applied AI Engineer, Document Intelligence](https://weworkremotely.com/remote-jobs/vertican-senior-applied-ai-engineer-document-intelligence)
@@ -10,7 +10,6 @@
 - [score 3] [ZoomInfo Technologies LLC: Principal Product Management, Growth](https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-principal-product-management-growth)
 - [score 3] [Yooli: FULL TIME: Software Engineer Position - React and Rest](https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1)
 - [score 3] [WelcomeHome Software: Senior Software Engineer](https://weworkremotely.com/remote-jobs/welcomehome-software-senior-software-engineer)
-- [score 3] [Reddit: Frontend Engineer, Ads](https://weworkremotely.com/remote-jobs/reddit-frontend-engineer-ads)
 - [score 3] [Legion: Senior Integration Engineer](https://weworkremotely.com/remote-jobs/legion-senior-integration-engineer)
 - [score 3] [Knock: Lending Manager (Front End) - Remote](https://weworkremotely.com/remote-jobs/knock-lending-manager-front-end-remote)
 - [score 3] [Coinbase: Broker Dealer Operations, Associate](https://weworkremotely.com/remote-jobs/coinbase-broker-dealer-operations-associate)
