@@ -1,4 +1,4 @@
-# Job matches (updated 2026-11-25)
+# Job matches (updated 2026-11-26)
 
 - [score 9] [Jumio: Principal Enterprise Architect](https://weworkremotely.com/remote-jobs/jumio-principal-enterprise-architect)
 - [score 7] [Vertican: Senior Applied AI Engineer, Document Intelligence](https://weworkremotely.com/remote-jobs/vertican-senior-applied-ai-engineer-document-intelligence)
@@ -12,5 +12,4 @@
 - [score 3] [WelcomeHome Software: Senior Software Engineer](https://weworkremotely.com/remote-jobs/welcomehome-software-senior-software-engineer)
 - [score 3] [Legion: Senior Integration Engineer](https://weworkremotely.com/remote-jobs/legion-senior-integration-engineer)
 - [score 3] [Knock: Lending Manager (Front End) - Remote](https://weworkremotely.com/remote-jobs/knock-lending-manager-front-end-remote)
-- [score 3] [Coinbase: Broker Dealer Operations, Associate](https://weworkremotely.com/remote-jobs/coinbase-broker-dealer-operations-associate)
-- [score 3] [Coinbase: Associate Manager, Internal Audit](https://weworkremotely.com/remote-jobs/coinbase-associate-manager-internal-audit)
+- [score 3] [Golden 1 Credit Union: Web Applications Programmer II (Sitecore Development Required)](https://weworkremotely.com/remote-jobs/golden-1-credit-union-web-applications-programmer-ii-sitecore-development-required)
