@@ -1,4 +1,4 @@
-# Job matches (updated 2026-11-26)
+# Job matches (updated 2026-11-27)
 
 - [score 9] [Jumio: Principal Enterprise Architect](https://weworkremotely.com/remote-jobs/jumio-principal-enterprise-architect)
 - [score 7] [Vertican: Senior Applied AI Engineer, Document Intelligence](https://weworkremotely.com/remote-jobs/vertican-senior-applied-ai-engineer-document-intelligence)
